@@ -24,7 +24,7 @@
 * [Telegram-bot](https://t.me/ml2025msubot) для отправки домашних заданий
 * Ну и всегда можно написать в [issues](https://github.com/mlcoursemm/ml2025autumn/issues) :)
 ## <a name="marks" /> Результаты выполнения заданий
-* Команда /status в telegram-боте @ml2024sharebot
+* Команда /status в telegram-боте @ml2025msubot
 ## <a name="program" /> Программа курса 
 | Номер         | Дата          | Лекция                                            | Семинар                                 | ДЗ            |Видео         |
 | ------------- | ------------- | -------------                                     | -------------                           | ------------- |------------- |
